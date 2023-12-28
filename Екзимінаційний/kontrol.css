@@ -1,0 +1,92 @@
+body{
+    background-image: url(../images/fon.jpg);
+     background-size: cover;
+
+   }
+.bod{
+    display: flex;
+    justify-content: center; /* Центрування по горизонталі */
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+}
+.content{
+    display: flex;
+    justify-content: center; /* Центрування по горизонталі */
+    align-items: center start;
+    flex-direction: column;
+    width: 62%;
+
+    border-style:solid;
+    border-color: lightgrey;
+    border-width: 0px;
+    border-radius: 10px;
+
+}
+.menu{
+
+    width: 100%;
+}
+legend{
+    text-align: center;
+    font-size:24px;
+}
+fieldset {
+    border-radius: 50px;
+    text-align:center;
+    padding: 15px 20px 25px 20px;
+}
+
+.sub{
+    color:  #4CAF50;
+    border-radius: 15px;
+    padding:5px 5px;
+    border-color:#4CAF50;
+}
+.sub:hover{
+   color:  white;
+    border-radius: 15px;
+    padding:5px 5px;
+    border-color:#4CAF50;
+    background-color:#4CAF50;
+}
+.res{
+    color:  red;
+    border-radius: 15px;
+    padding:5px 5px;
+    border-color:red;
+
+}
+ .res:hover{
+   color:  white;
+    border-radius: 15px;
+    padding:5px 5px;
+    border-color:red;
+    background-color:red;
+}
+p{
+    font-family: cursive;
+
+}
+h1{
+    text-align: center;
+    margin:0px;
+}
+.f {
+    background: white;
+    border-radius: 10px;
+    padding: 1 0 0 17px;
+    box-shadow:  0 3px 4px 3px #808080;
+}
+.f1{
+    background: white;
+    border-radius: 10px;
+    height:178px;
+    box-shadow:  0 3px 4px 3px #808080;
+
+}
+.btn {
+    display: flex;
+    margin-top: 7px;
+    justify-content: space-evenly;
+}

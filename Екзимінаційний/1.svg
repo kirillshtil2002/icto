@@ -1,0 +1,26 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="19.233ex" height="2.509ex" style="vertical-align: -0.671ex;" viewBox="0 -791.3 8280.9 1080.4" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<title id="MathJax-SVG-1-Title">{\displaystyle {\mathsf {2Na+H_{2}\rightarrow {}\ 2NaH}}}</title>
+<defs aria-hidden="true">
+<path stroke-width="1" id="E1-MJSS-32" d="M222 599Q190 599 166 585T128 550T108 509T97 474T93 459L67 492L42 526L47 539Q72 608 120 642T225 677Q304 677 355 644Q449 579 449 454Q449 373 361 290Q351 280 315 250T199 144Q156 103 137 85L293 86H449V0H50V79L216 242Q284 302 317 349T351 456Q351 517 315 558T222 599Z"></path>
+<path stroke-width="1" id="E1-MJSS-4E" d="M88 0V694H235L252 659Q261 639 364 428T526 84V694H619V0H472L455 35Q453 39 330 294T185 601L181 611V0H88Z"></path>
+<path stroke-width="1" id="E1-MJSS-61" d="M236 387Q209 387 184 382T141 370T111 355T91 342T83 337L82 355Q80 373 79 393T77 417Q77 419 81 421Q86 423 91 426Q155 460 227 460H238Q319 460 368 400Q393 371 400 341T408 252Q408 240 408 207T407 152V0H317V39L306 32Q244 -10 159 -10H152Q109 -10 77 22Q38 61 38 126Q38 142 39 146Q55 199 130 223T295 252H314V277Q314 305 313 310Q308 342 287 364T236 387ZM303 186Q124 180 124 126Q124 105 144 86T208 66Q284 66 309 124Q314 137 314 166V186H303Z"></path>
+<path stroke-width="1" id="E1-MJSS-2B" d="M56 237T56 250T70 270H369V420L370 570Q380 583 389 583Q402 583 409 568V270H707Q722 262 722 250T707 230H409V-68Q401 -82 391 -82H389H387Q375 -82 369 -68V230H70Q56 237 56 250Z"></path>
+<path stroke-width="1" id="E1-MJSS-48" d="M86 0V694H190V399H517V694H621V0H517V323H190V0H86Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-2192" d="M56 237T56 250T70 270H835Q719 357 692 493Q692 494 692 496T691 499Q691 511 708 511H711Q720 511 723 510T729 506T732 497T735 481T743 456Q765 389 816 336T935 261Q944 258 944 250Q944 244 939 241T915 231T877 212Q836 186 806 152T761 85T740 35T732 4Q730 -6 727 -8T711 -11Q691 -11 691 0Q691 7 696 25Q728 151 835 230H70Q56 237 56 250Z"></path>
+</defs>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
+ <use xlink:href="#E1-MJSS-32" x="0" y="0"></use>
+ <use xlink:href="#E1-MJSS-4E" x="500" y="0"></use>
+ <use xlink:href="#E1-MJSS-61" x="1209" y="0"></use>
+ <use xlink:href="#E1-MJSS-2B" x="1912" y="0"></use>
+<g transform="translate(2913,0)">
+ <use xlink:href="#E1-MJSS-48" x="0" y="0"></use>
+ <use transform="scale(0.707)" xlink:href="#E1-MJSS-32" x="1001" y="-213"></use>
+</g>
+ <use xlink:href="#E1-MJMAIN-2192" x="4353" y="0"></use>
+ <use xlink:href="#E1-MJSS-32" x="5881" y="0"></use>
+ <use xlink:href="#E1-MJSS-4E" x="6382" y="0"></use>
+ <use xlink:href="#E1-MJSS-61" x="7090" y="0"></use>
+ <use xlink:href="#E1-MJSS-48" x="7572" y="0"></use>
+</g>
+</svg>
