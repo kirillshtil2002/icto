@@ -1,0 +1,41 @@
+
+header{
+    display: flex;
+    justify-content: center;
+ }
+
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #89CDFC;
+    width:60%;
+    height: 50px;
+    border-radius: 10px;
+    padding:0 15px;
+}
+
+.text{
+    margin:0 50px;
+    font-size:16px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    color: black;
+    text-decoration:none;
+}
+.text:hover{
+    color: white;
+    text-decoration-line: underline;
+}
+/*a{
+    text-decoration: none;
+    padding: 10 2 10;
+    color: black;
+}
+*/
+/*a:link{
+color:#000;
+}
+a:visited{
+color:#000;
+}*/

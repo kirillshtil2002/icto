@@ -1,0 +1,40 @@
+body{
+    background-image: url(../images/fon.jpg);
+     background-size: cover;
+
+   }
+.bod{
+    display: flex;
+    justify-content: center; /* Центрування по горизонталі */
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+}
+.content{
+    display: flex;
+    justify-content: center; /* Центрування по горизонталі */
+    
+    flex-direction: column;
+    width: 62%;
+    background-color: white;
+    border-style:solid;
+    border-color: lightgrey;
+    border-width: 0px;
+    border-radius: 10px;
+    box-shadow:  0 3px 4px 3px #808080;
+}
+.menu{
+
+    width: 100%;
+}
+h1,h2,h3{
+    margin:5px;
+}
+p{
+    margin:8px;
+    font-size:17px;
+    font-family: "Times New Roman", Times, serif;
+}
+.img {
+    text-align: center;
+}
